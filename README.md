@@ -1,3 +1,3 @@
-# NLP.Urban
+# Natural Language Processing - Urban Institute
 
-The intention of this project is to inform Urban Institute employees of the tools avaiable in natural language processing.
+This project utilizes Cosine Similarity, Doc2Vec, Sentiment Analysis, and LDA Topic Modeling in an analysis of Urban Wire posts, survey data collected from Urban's ITHAKA project, and reports from TAACCT. 
